@@ -20,6 +20,7 @@ def make_change(number: int) -> List[List[int]]:
     25, 10, 5 e 1 centavos, chegando se a combinação entre elas resulta no numero inserido e retorna uma
     lista contendo as listas de todas as combinações possíveis.
     uma
+
     :param number (int): Valor inteiro que deseja-se decompor nas moedas de 25, 10, 5 e 1 centavos.
     :return (List[list]: lista contendo as listas de todas as combinações possíveis.
     """
